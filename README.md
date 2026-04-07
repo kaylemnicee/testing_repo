@@ -1,4 +1,2 @@
-# testing_repo
-test commit for web feature
-this is my test public activty from github
-new change!
+# Test
+This is my new commit!
